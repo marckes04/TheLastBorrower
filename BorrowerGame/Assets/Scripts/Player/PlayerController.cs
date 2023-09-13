@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
         {
             ControlMovement();
         }
-
+        
     }
     void ControlMovement()
     {
